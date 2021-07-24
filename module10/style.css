@@ -238,10 +238,10 @@ iframe {
     }
     @keyframes arrowlight {
       0% {
-        background-image:url(image/arrow.png);
+        background-image:url(https://user-images.githubusercontent.com/86025677/126880928-2c85f0c2-9e51-451f-b05a-9ffee32b17c3.png);
       }
       20% {
-        background-image:url(image/arrow.png);
+        background-image:url(https://user-images.githubusercontent.com/86025677/126880928-2c85f0c2-9e51-451f-b05a-9ffee32b17c3.png);
       }
       21% {
         background-image:none;
@@ -250,10 +250,10 @@ iframe {
 	    background-image:none;
 	  }
       91% {
-        background-image:url(image/arrow.png);
+        background-image:url(https://user-images.githubusercontent.com/86025677/126880928-2c85f0c2-9e51-451f-b05a-9ffee32b17c3.png);
       }
 	  100% {
-	    background-image:url(image/arrow.png);
+	    background-image:url(https://user-images.githubusercontent.com/86025677/126880928-2c85f0c2-9e51-451f-b05a-9ffee32b17c3.png);
 	  }
     }
 
