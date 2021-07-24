@@ -5,3 +5,18 @@ html {
  box-sizing: inherit;
  overflow:auto;
 }
+.latin {
+	margin:2em;
+	padding:2em;
+	border-style:solid;
+	border-width:1em;
+	border-color:yellow;
+	width:30em;
+	background-color:yellowgreen;
+}
+.contentBox {
+	box-sizing:content-box;
+}
+.borderBox {
+	box-sizing:border-box;
+}
