@@ -57,6 +57,7 @@ html.not-top {
 }
 *, *:before, *:after {
   box-sizing: inherit;
+  overflow:auto;
 }
 /*the entire body of the html page*/
 body {    
